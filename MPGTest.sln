@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MPGTest", "MPGTest\MPGTest.csproj", "{DA5906A9-60CB-4BC8-906B-D7BA9BBAB0DD}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Tutorial1", "Tutorial1\Tutorial1.fsproj", "{9758BBDB-73A7-4002-9C71-2836845931C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA5906A9-60CB-4BC8-906B-D7BA9BBAB0DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA5906A9-60CB-4BC8-906B-D7BA9BBAB0DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA5906A9-60CB-4BC8-906B-D7BA9BBAB0DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA5906A9-60CB-4BC8-906B-D7BA9BBAB0DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9758BBDB-73A7-4002-9C71-2836845931C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9758BBDB-73A7-4002-9C71-2836845931C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9758BBDB-73A7-4002-9C71-2836845931C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9758BBDB-73A7-4002-9C71-2836845931C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
